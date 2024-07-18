@@ -1,11 +1,11 @@
 # es-de-android-autoclose
 Script which automatically closes the lastest App after returning back to ES-DE.
 
-## Prerequisites
+## 🛠️ Prerequisites
 1. This script was so far only tested on the Retroid Pocket 4 Pro
 2. ES-DE has to be set as Home Launcher App
 
-## Script installation
+## ⚙️ Script installation
 1. On your Android device:
     1. Navigate to the main `ES-DE/scripts/` folder
     2. Create a folder named `game-end`
