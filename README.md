@@ -18,12 +18,14 @@ Script which automatically closes the lastest App after returning back to [ES-DE
         └── game-end/
             └── autoclose.sh
 ```
-3. Enable "Custom Scripts" in ES-DE
+3. Enable Custom Scripts in ES-DE
+    1. Open ES-DE Menu > Other Settings
+    2. Enable custom event scripts
 4. Restart ES-DE
     1. Open the Settings App
     1. Go Apps
     2. Search for ES-DE
-    3. Click on "Force Close"
+    3. Force close the app
     4. Close the Settings App
 5. The latest App will now be automatically closed after returning to ES-DE
 
